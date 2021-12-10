@@ -43,7 +43,8 @@ while(cap.isOpened()):
         index += 1
 
     # 顯示畫面
-    cv2.imshow('WebCam', cv2.cvtColor(image, cv2.COLOR_RGB2BGR))
+    cv2.imshow('Press q buttom to exit',
+               cv2.cvtColor(image, cv2.COLOR_RGB2BGR))
 
     # 若按下 q 鍵則離開迴圈
     if cv2.waitKey(1) & 0xFF == ord('q'):
