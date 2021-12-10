@@ -2,7 +2,11 @@
 <p align="left"><img width="100%" src="./example.png"></p>
 
 ## 1. Installation
+'''
 pip3 install -r requirements.txt
+'''
 
 ## 2. Execute
+'''
 python3 example.py
+'''
