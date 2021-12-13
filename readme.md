@@ -9,7 +9,7 @@
 ## 1. Installation
 pip3 install -r requirements.txt
 
-## 2. Execute
+## 2. Execution
 python3 example.py
 
 ## Reference
