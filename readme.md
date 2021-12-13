@@ -4,7 +4,7 @@
 <p align="left" style="float:right;width:80%"><img width="80%" src="./example.png"></p>
 
 ### Realtime example:
-<p align="left" style="float:left;width:40%"><img width="40%" src="./example-face.png"></p>
+<p align="left" style="float:left;width:40%"><img width="40%" src="./example-face.gif"></p>
 
 ## 1. Installation
 ```
