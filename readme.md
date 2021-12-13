@@ -7,10 +7,14 @@
 <p align="left" style="float:left;width:40%"><img width="40%" src="./example-face.png"></p>
 
 ## 1. Installation
+```
 pip3 install -r requirements.txt
+```
 
 ## 2. Execution
-python3 example.py
+```
+python3 ./example.py
+```
 
 ## Reference
 <a href="https://github.com/ipazc/mtcnn" target="_blank">MTCNN</a>
